@@ -1,0 +1,625 @@
+{
+ 
+    "data": [
+      {
+        "codigo": 1,
+        "nombre": "Distrito Nacional"
+      },
+      {
+        "codigo": 2,
+        "nombre": "Azua de Compostela"
+      },
+      {
+        "codigo": 3,
+        "nombre": "Estebanía"
+      },
+      {
+        "codigo": 4,
+        "nombre": "Guayabal"
+      },
+      {
+        "codigo": 5,
+        "nombre": "Las Charcas"
+      },
+      {
+        "codigo": 6,
+        "nombre": "Las Yayas de Viajama"
+      },
+      {
+        "codigo": 7,
+        "nombre": "Padre Las Casas"
+      },
+      {
+        "codigo": 8,
+        "nombre": "Peralta"
+      },
+      {
+        "codigo": 9,
+        "nombre": "Pueblo Viejo"
+      },
+      {
+        "codigo": 10,
+        "nombre": "Sabana Yegua"
+      },
+      {
+        "codigo": 11,
+        "nombre": "Tábara Arriba"
+      },
+      {
+        "codigo": 12,
+        "nombre": "Neiba"
+      },
+      {
+        "codigo": 13,
+        "nombre": "Galván"
+      },
+      {
+        "codigo": 14,
+        "nombre": "Los Ríos"
+      },
+      {
+        "codigo": 15,
+        "nombre": "Tamayo"
+      },
+      {
+        "codigo": 16,
+        "nombre": "Villa Jaragua"
+      },
+      {
+        "codigo": 17,
+        "nombre": "Barahona"
+      },
+      {
+        "codigo": 18,
+        "nombre": "Cabral"
+      },
+      {
+        "codigo": 19,
+        "nombre": "El Peñón"
+      },
+      {
+        "codigo": 20,
+        "nombre": "Enriquillo"
+      },
+      {
+        "codigo": 21,
+        "nombre": "Fundación"
+      },
+      {
+        "codigo": 22,
+        "nombre": "Jaquimeyes"
+      },
+      {
+        "codigo": 23,
+        "nombre": "La Ciénaga"
+      },
+      {
+        "codigo": 24,
+        "nombre": "Las Salinas"
+      },
+      {
+        "codigo": 25,
+        "nombre": "Paraíso"
+      },
+      {
+        "codigo": 26,
+        "nombre": "Polo"
+      },
+      {
+        "codigo": 27,
+        "nombre": "Vicente Noble"
+      },
+      {
+        "codigo": 28,
+        "nombre": "Dajabón"
+      },
+      {
+        "codigo": 29,
+        "nombre": "El Pino"
+      },
+      {
+        "codigo": 30,
+        "nombre": "Loma de Cabrera"
+      },
+      {
+        "codigo": 31,
+        "nombre": "Partido"
+      },
+      {
+        "codigo": 32,
+        "nombre": "Restauración"
+      },
+      {
+        "codigo": 33,
+        "nombre": "San Francisco de Macorís"
+      },
+      {
+        "codigo": 34,
+        "nombre": "Arenoso"
+      },
+      {
+        "codigo": 35,
+        "nombre": "Castillo"
+      },
+      {
+        "codigo": 36,
+        "nombre": "Eugenio María de Hostos"
+      },
+      {
+        "codigo": 37,
+        "nombre": "Las Guáranas"
+      },
+      {
+        "codigo": 38,
+        "nombre": "Pimentel"
+      },
+      {
+        "codigo": 39,
+        "nombre": "Villa Riva"
+      },
+      {
+        "codigo": 40,
+        "nombre": "El Seibo"
+      },
+      {
+        "codigo": 41,
+        "nombre": "Miches"
+      },
+      {
+        "codigo": 42,
+        "nombre": "Comendador"
+      },
+      {
+        "codigo": 43,
+        "nombre": "Bánica"
+      },
+      {
+        "codigo": 44,
+        "nombre": "El Llano"
+      },
+      {
+        "codigo": 45,
+        "nombre": "Hondo Valle"
+      },
+      {
+        "codigo": 46,
+        "nombre": "Juan Santiago"
+      },
+      {
+        "codigo": 47,
+        "nombre": "Pedro Santana"
+      },
+      {
+        "codigo": 48,
+        "nombre": "Moca"
+      },
+      {
+        "codigo": 49,
+        "nombre": "Cayetano Germosén"
+      },
+      {
+        "codigo": 50,
+        "nombre": "Gaspar Hernández"
+      },
+      {
+        "codigo": 51,
+        "nombre": "Jamao al Norte"
+      },
+      {
+        "codigo": 52,
+        "nombre": "Hato Mayor del Rey"
+      },
+      {
+        "codigo": 53,
+        "nombre": "El Valle"
+      },
+      {
+        "codigo": 54,
+        "nombre": "Sabana de la Mar"
+      },
+      {
+        "codigo": 55,
+        "nombre": "Salcedo"
+      },
+      {
+        "codigo": 56,
+        "nombre": "Tenares"
+      },
+      {
+        "codigo": 57,
+        "nombre": "Villa Tapia"
+      },
+      {
+        "codigo": 58,
+        "nombre": "Jimaní"
+      },
+      {
+        "codigo": 59,
+        "nombre": "Cristóbal"
+      },
+      {
+        "codigo": 60,
+        "nombre": "Duvergé"
+      },
+      {
+        "codigo": 61,
+        "nombre": "La Descubierta"
+      },
+      {
+        "codigo": 62,
+        "nombre": "Mella"
+      },
+      {
+        "codigo": 63,
+        "nombre": "Postrer Río"
+      },
+      {
+        "codigo": 64,
+        "nombre": "Higüey"
+      },
+      {
+        "codigo": 65,
+        "nombre": "San Rafael del Yuma"
+      },
+      {
+        "codigo": 66,
+        "nombre": "La Romana"
+      },
+      {
+        "codigo": 67,
+        "nombre": "Guaymate"
+      },
+      {
+        "codigo": 68,
+        "nombre": "Villa Hermosa"
+      },
+      {
+        "codigo": 69,
+        "nombre": "La Concepción de La Vega"
+      },
+      {
+        "codigo": 70,
+        "nombre": "Constanza"
+      },
+      {
+        "codigo": 71,
+        "nombre": "Jarabacoa"
+      },
+      {
+        "codigo": 72,
+        "nombre": "Jima Abajo"
+      },
+      {
+        "codigo": 73,
+        "nombre": "Nagua"
+      },
+      {
+        "codigo": 74,
+        "nombre": "Cabrera"
+      },
+      {
+        "codigo": 75,
+        "nombre": "El Factor"
+      },
+      {
+        "codigo": 76,
+        "nombre": "Río San Juan"
+      },
+      {
+        "codigo": 77,
+        "nombre": "Bonao"
+      },
+      {
+        "codigo": 78,
+        "nombre": "Maimón"
+      },
+      {
+        "codigo": 79,
+        "nombre": "Piedra Blanca"
+      },
+      {
+        "codigo": 80,
+        "nombre": "Montecristi"
+      },
+      {
+        "codigo": 81,
+        "nombre": "Castañuela"
+      },
+      {
+        "codigo": 82,
+        "nombre": "Guayubín"
+      },
+      {
+        "codigo": 83,
+        "nombre": "Las Matas de Santa Cruz"
+      },
+      {
+        "codigo": 84,
+        "nombre": "Pepillo Salcedo"
+      },
+      {
+        "codigo": 85,
+        "nombre": "Villa Vásquez"
+      },
+      {
+        "codigo": 86,
+        "nombre": "Monte Plata"
+      },
+      {
+        "codigo": 87,
+        "nombre": "Bayaguana"
+      },
+      {
+        "codigo": 88,
+        "nombre": "Peralvillo"
+      },
+      {
+        "codigo": 89,
+        "nombre": "Sabana Grande de Boyá"
+      },
+      {
+        "codigo": 90,
+        "nombre": "Yamasá"
+      },
+      {
+        "codigo": 91,
+        "nombre": "Pedernales"
+      },
+      {
+        "codigo": 92,
+        "nombre": "Oviedo"
+      },
+      {
+        "codigo": 93,
+        "nombre": "Baní"
+      },
+      {
+        "codigo": 94,
+        "nombre": "Nizao"
+      },
+      {
+        "codigo": 95,
+        "nombre": "Puerto Plata"
+      },
+      {
+        "codigo": 96,
+        "nombre": "Altamira"
+      },
+      {
+        "codigo": 97,
+        "nombre": "Guananico"
+      },
+      {
+        "codigo": 98,
+        "nombre": "Imbert"
+      },
+      {
+        "codigo": 99,
+        "nombre": "Los Hidalgos"
+      },
+      {
+        "codigo": 100,
+        "nombre": "Luperón"
+      },
+      {
+        "codigo": 101,
+        "nombre": "Sosúa"
+      },
+      {
+        "codigo": 102,
+        "nombre": "Villa Isabela"
+      },
+      {
+        "codigo": 103,
+        "nombre": "Villa Montellano"
+      },
+      {
+        "codigo": 104,
+        "nombre": "Samaná"
+      },
+      {
+        "codigo": 105,
+        "nombre": "Las Terrenas"
+      },
+      {
+        "codigo": 106,
+        "nombre": "Sánchez"
+      },
+      {
+        "codigo": 107,
+        "nombre": "San Cristóbal"
+      },
+      {
+        "codigo": 108,
+        "nombre": "Bajos de Haina"
+      },
+      {
+        "codigo": 109,
+        "nombre": "Cambita Garabito"
+      },
+      {
+        "codigo": 110,
+        "nombre": "Los Cacaos"
+      },
+      {
+        "codigo": 111,
+        "nombre": "Sabana Grande de Palenque"
+      },
+      {
+        "codigo": 112,
+        "nombre": "San Gregorio de Nigua"
+      },
+      {
+        "codigo": 113,
+        "nombre": "Villa Altagracia"
+      },
+      {
+        "codigo": 114,
+        "nombre": "Yaguate"
+      },
+      {
+        "codigo": 115,
+        "nombre": "San José de Ocoa"
+      },
+      {
+        "codigo": 116,
+        "nombre": "Rancho Arriba"
+      },
+      {
+        "codigo": 117,
+        "nombre": "Sabana Larga"
+      },
+      {
+        "codigo": 118,
+        "nombre": "San Juan de la Maguana"
+      },
+      {
+        "codigo": 119,
+        "nombre": "Bohechío"
+      },
+      {
+        "codigo": 120,
+        "nombre": "El Cercado"
+      },
+      {
+        "codigo": 121,
+        "nombre": "Juan de Herrera"
+      },
+      {
+        "codigo": 122,
+        "nombre": "Las Matas de Farfán"
+      },
+      {
+        "codigo": 123,
+        "nombre": "Vallejuelo"
+      },
+      {
+        "codigo": 124,
+        "nombre": "San Pedro de Macorís"
+      },
+      {
+        "codigo": 125,
+        "nombre": "Consuelo"
+      },
+      {
+        "codigo": 126,
+        "nombre": "Guayacanes"
+      },
+      {
+        "codigo": 127,
+        "nombre": "Quisqueya"
+      },
+      {
+        "codigo": 128,
+        "nombre": "Ramón Santana"
+      },
+      {
+        "codigo": 129,
+        "nombre": "San José de Los Llanos"
+      },
+      {
+        "codigo": 130,
+        "nombre": "Cotuí"
+      },
+      {
+        "codigo": 131,
+        "nombre": "Cevicos"
+      },
+      {
+        "codigo": 132,
+        "nombre": "Fantino"
+      },
+      {
+        "codigo": 133,
+        "nombre": "La Mata"
+      },
+      {
+        "codigo": 134,
+        "nombre": "Santiago"
+      },
+      {
+        "codigo": 135,
+        "nombre": "Bisonó"
+      },
+      {
+        "codigo": 136,
+        "nombre": "Jánico"
+      },
+      {
+        "codigo": 137,
+        "nombre": "Licey al Medio"
+      },
+      {
+        "codigo": 138,
+        "nombre": "Puñal"
+      },
+      {
+        "codigo": 139,
+        "nombre": "Sabana Iglesia"
+      },
+      {
+        "codigo": 140,
+        "nombre": "San José de las Matas"
+      },
+      {
+        "codigo": 141,
+        "nombre": "Tamboril"
+      },
+      {
+        "codigo": 142,
+        "nombre": "Villa González"
+      },
+      {
+        "codigo": 143,
+        "nombre": "San Ignacio de Sabaneta"
+      },
+      {
+        "codigo": 144,
+        "nombre": "Los Almácigos"
+      },
+      {
+        "codigo": 145,
+        "nombre": "Monción"
+      },
+      {
+        "codigo": 146,
+        "nombre": "Santo Domingo Este"
+      },
+      {
+        "codigo": 147,
+        "nombre": "Boca Chica"
+      },
+      {
+        "codigo": 148,
+        "nombre": "Los Alcarrizos"
+      },
+      {
+        "codigo": 149,
+        "nombre": "Pedro Brand"
+      },
+      {
+        "codigo": 150,
+        "nombre": "San Antonio de Guerra"
+      },
+      {
+        "codigo": 151,
+        "nombre": "Santo Domingo Norte"
+      },
+      {
+        "codigo": 152,
+        "nombre": "Santo Domingo Oeste"
+      },
+      {
+        "codigo": 153,
+        "nombre": "Mao"
+      },
+      {
+        "codigo": 154,
+        "nombre": "Esperanza"
+      },
+      {
+        "codigo": 155,
+        "nombre": "Laguna Salada"
+      }
+    ]
+  }

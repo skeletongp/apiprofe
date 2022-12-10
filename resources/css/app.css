@@ -1,0 +1,44 @@
+@import url('https://fonts.cdnfonts.com/css/proxima-nova-2');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+    -webkit-tap-highlight-color: transparent;
+    font-family: 'Proxima Nova', sans-serif !important;
+}
+
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+
+[x-cloak] {
+    display: none;
+}
+
+
+select:invalid {
+    @apply text-gray-300;
+}
+
+
+
+.select2-selection__rendered {
+    @apply  !overflow-hidden !overflow-ellipsis !whitespace-nowrap !w-full;
+}
+.select2-selection, .selection, .select2 {
+    @apply  !overflow-hidden !overflow-ellipsis !whitespace-nowrap !w-full !border-transparent;
+}
+
+/* scroll bar thin */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+/* text area vertical center */
+textarea {
+    vertical-align: middle;
+}
